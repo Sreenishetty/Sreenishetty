@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fxi8yfushc9h7yyefkytio03zpli7j20y1nr4jep&rid=giphy.gif&ct=g">
-- 🔭 I’m currently working on **Python ,Apache Airflow ,MongoDB ,MySql ,SQL**
 
-- 🌱 I’m currently learning **Python Programming with some of the Databases**
+- 🌱 I’m currently learning **Python Programming, Python Frameworks like FastAPI, RestAPI, Flask**
 
 - 📫 How to reach me **srinivas.s111698@gmail.com**
 
