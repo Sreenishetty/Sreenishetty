@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Python Programming, Python Frameworks like FastAPI, RestAPI, Flask and Databases like MongoDB, SQLite**
 
-- 🌱 I’m currently learning **Python With Ansible**
+- 🌱 I’m currently learning **Ansible IT Automation with Python**
 
 - 📫 How to reach me **srinivas.s111698@gmail.com**
 
