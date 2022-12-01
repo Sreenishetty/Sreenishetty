@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Data Science Projects, Python Programming with Ansible**
 
-- 🌱 I’m currently learning **Data Science from GUVI IIT-MADRAS**
+- 🌱 I’m currently learning **Data Science @ GUVI IIT-MADRAS**
 
 - 📫 How to reach me **srinivas.s111698@gmail.com**
 
